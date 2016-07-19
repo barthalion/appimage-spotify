@@ -8,7 +8,8 @@ RUN apt-get update && \
 		libfuse2 \
 		libglib2.0 \
 		librtmp0 \
-		libgconf-2-4
+		libgconf-2-4 \
+        fuse
 
 ADD Recipe /Recipe
 
