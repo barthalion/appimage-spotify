@@ -4,7 +4,7 @@
 
 ```bash
 # clone the repo
-git clone https://github.com/niklas-heer/appimage-spotify.git
+git clone https://github.com/Barthalion/appimage-spotify.git
 
 cd appimage-spotify
 
